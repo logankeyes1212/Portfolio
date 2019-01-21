@@ -327,7 +327,16 @@ body {
   }
 
     }
-    
-    
+@media screen and (max-width: 325px){
+  .auth-image {
+    float: left;
+    width: 240px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+  }
+
+
+}
       
   
